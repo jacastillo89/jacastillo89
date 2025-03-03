@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jacastillo89
-- 👀 I’m interested in vr and ar development for enviromental education
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on vr and ar development for enviromental education
+- 👀 I’m interested in VR and AR development for environmental education
+- 🌱 I’m currently learning Unity
+- 💞️ I’m looking to collaborate on VR and AR development for environmental education
 - 📫 DM or tw at @jacastilloc89
 
 <!---
